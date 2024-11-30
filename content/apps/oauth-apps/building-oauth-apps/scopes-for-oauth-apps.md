@@ -1,5 +1,5 @@
 ---
-title: Scopes for OAuth apps
+title: RSunda Scopes for OAuth apps
 intro: '{% data reusables.shortdesc.understanding_scopes_for_oauth_apps %}'
 redirect_from:
   - /apps/building-integrations/setting-up-and-registering-oauth-apps/about-scopes-for-oauth-apps
